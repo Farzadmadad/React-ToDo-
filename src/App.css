@@ -1,0 +1,53 @@
+.App {
+  text-align: center;
+ 
+  margin: auto;
+  
+}
+ul li{
+  display: flex;
+  list-style-type: none;
+  justify-content: space-between;
+  font-size: 30px;
+ 
+}
+h5{
+  color: red;
+  
+}
+.list-task{
+  background-color: rgb(45, 116, 221);
+  margin: auto;
+  width: 300px;
+  height: 200px;
+  padding: 20px;
+  
+}
+button{
+  background-color: rgb(161, 96, 96);
+  border-radius: 5%;
+  color: aqua;
+
+}
+button:hover{
+  background-color:aqua ;
+  border-radius: 10%;
+  color: rgb(161, 96, 96);
+  
+  
+}
+.div1{
+  background-image: url("kebord.jpeg");
+  
+  height: 250px;
+  background-size: cover;
+  color: aqua;
+  border-radius: 10px;
+  font-size: 30px;
+}
+h1{
+ padding-top: 80px;
+}
+.taskform{
+  margin-top: 60px;
+}
